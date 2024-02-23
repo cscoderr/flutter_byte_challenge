@@ -84,7 +84,6 @@ class _HomePageState extends State<HomePage> {
                   child: Text(
                     'Community',
                     style: Theme.of(context).textTheme.displayLarge?.copyWith(
-                          letterSpacing: -5.5,
                           fontWeight: FontWeight.w400,
                         ),
                   ),
